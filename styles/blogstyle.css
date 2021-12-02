@@ -51,6 +51,7 @@ html {
   left: 50%;
   transform: translateX(-50%);
   margin-top: 50px;
+  margin-bottom: 40px;
   padding: 15px 20px;
   background-color: #00305b;
   border-radius: 100px;
